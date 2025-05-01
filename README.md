@@ -20,6 +20,9 @@
 - Environment-based API configuration
 - Firebase Hosting ready
 
+## Access the deployed backend
+
+Deployed URL: https://vertex-assignment.web.app/
 ## 👑 Admin Credentials
 
 Use these credentials to access the admin dashboard:
