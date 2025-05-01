@@ -12,6 +12,7 @@
   - Share content
   - Report inappropriate content
   - Complete profile and earn credits
+  - logging in every 12 hours adds 1 cred point.
 - Admin features:
   - View total users
   - Access analytics dashboard
