@@ -81,39 +81,7 @@ Password: admin123
 4. **View your hosted frontend**  
    Firebase will provide a public URL after deployment.
 
-## 📂 Project Structure
 
-```
-creator-dashboard-frontend/
-│
-├── public/
-│   └── assets/             # Static assets
-│
-├── src/
-│   ├── components/         # Reusable UI components
-│   │   ├── Auth/           # Authentication components
-│   │   ├── Dashboard/      # Dashboard components
-│   │   └── Shared/         # Shared components
-│   │
-│   ├── pages/              # Application pages
-│   │   ├── AdminPanel/     # Admin dashboard pages
-│   │   ├── Auth/           # Login/Signup pages
-│   │   └── Dashboard/      # User dashboard pages
-│   │
-│   ├── services/           # API service layer
-│   ├── store/              # State management
-│   ├── utils/              # Utility functions
-│   ├── App.jsx             # Main application component
-│   ├── main.jsx            # Entry point
-│   └── index.css           # Global styles
-│
-├── .env                    # Development environment variables
-├── .env.production         # Production environment variables
-├── .gitignore
-├── package.json
-├── vite.config.js
-└── README.md
-```
 
 ## 🔗 Backend Integration
 
